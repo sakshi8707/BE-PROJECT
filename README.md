@@ -1,5 +1,5 @@
 
-# KJHack-Brogrammers
+
 
 ### **Title: A blood distribution system that ensures the immutability of donor data, provides transparency, effectively manages surplus blood, and prevents blood distribution fraud.**
 
@@ -27,7 +27,7 @@
 ## Conclusion:
 
 - The blockchain-based solution ensures visibility through traceability.
-- QR code authentication and encrypted transactions ensure blood integrity (now working on that part).
+- QR code authentication and encrypted transactions ensure blood integrity (currently working on that part).
 - The optimization algorithm ensures blood availability in hospitals at all times.
 - Blood scarcity during emergencies is eliminated.
 - Traditional system transparency issues are resolved.
