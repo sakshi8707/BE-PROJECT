@@ -33,11 +33,21 @@
 - Traditional system transparency issues are resolved.
 
 ## Installation Steps:
+1. Clone the repo using either of the following methods:
 
-1. Clone the repo:
+   - Using HTTPS:
+     ```sh
+     git clone https://github.com/sakshi8707/Blood-Distribution-System.git
+     ```
+   - Using GitHub CLI:
+     ```sh
+     gh repo clone sakshi8707/Blood-Distribution-System
+     ```
+
+2. Navigate to the project directory:
    ```sh
-   git clone <repository-url>
-
+   cd Blood-Distribution-System
+   
 
 ## Installation Steps:
 
